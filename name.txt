@@ -1,1 +1,9 @@
-Mohamed Ahmed Abdelghany
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lab 1</title>
+</head>
+<body>
+  <h1>Mohamed Ahmed Abdelghany</h1>
+</body>
+</html>
